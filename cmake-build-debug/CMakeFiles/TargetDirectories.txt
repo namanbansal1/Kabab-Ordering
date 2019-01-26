@@ -1,0 +1,3 @@
+/cygdrive/c/Users/naman/Desktop/a/Kebab-Interface-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/naman/Desktop/a/Kebab-Interface-master/cmake-build-debug/CMakeFiles/Kebab_Interface_master.dir
+/cygdrive/c/Users/naman/Desktop/a/Kebab-Interface-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
